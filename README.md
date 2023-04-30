@@ -1,3 +1,3 @@
 # EtiyaAc
 
-Etiya Academy lesson workshop and pair
+ lesson workshop and pair
